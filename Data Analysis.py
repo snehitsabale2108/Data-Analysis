@@ -36,7 +36,7 @@ class CorporateReportBuilder:
         self._build_ui()
 
     # ---------------- UI ----------------
-    def _build_ui(self):
+    def _build_ui(self): 
         header = tk.Label(self.root, text="Data Analyzer", font=("Arial", 18, "bold"))
         header.pack(pady=10)
 
