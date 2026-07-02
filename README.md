@@ -164,3 +164,10 @@ The `.exe` (or platform equivalent) will be generated inside the `dist/` folder.
 - Support for `.json` and Google Sheets input
 
 ---
+
+## Author
+
+**Snehit Sabale**
+[GitHub](https://github.com/snehitsabale2108)
+
+---
