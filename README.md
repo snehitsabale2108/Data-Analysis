@@ -2,7 +2,7 @@
 
 A desktop GUI application built with **Python, Tkinter, Pandas, and Matplotlib** that lets non-technical users analyze CSV/Excel data, build grouped reports, visualize results as charts, and export everything — all without writing a single line of code.
 
-
+ 
 ---
 
 ## ✨ Overview
